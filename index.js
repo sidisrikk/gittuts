@@ -1,6 +1,6 @@
-import box from "./box"
+const box = require("./box");
 
-let x = 1
+let x = 1;
 
-console.log(objectx + box.length)
-console.log(objectx + box.width + box.height)
+console.log(x + box.length);
+console.log(x + box.width + box.height);
