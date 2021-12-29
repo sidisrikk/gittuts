@@ -6,3 +6,6 @@ console.log(x + box.length);
 console.log(x + box.width + box.height);
 
 // wrezrxtcyubinm,tryjukjyhgf
+// wrezrxtcyubinm,tryjukjyhgf
+// wrezrxtcyubinm,tryjukjyhgf
+// wrezrxtcyubinm,tryjukjyhgf
